@@ -1,4 +1,4 @@
-# D3 Homework - Data Journalism and D3
+# D3 - Data Journalism and D3
 
 ![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
 
@@ -78,13 +78,13 @@ Your final product will be assessed on the following metrics:
 
 * Ensure your repository has regular commits (i.e. 20+ commits) and a thorough README.md file
 
-**Good luck!**
+
 
 ## Rubric
 
-[Unit 16 Rubric - D3 Homework - Data Journalism and D3](https://docs.google.com/document/d/10v1svLr0DM7jvJlBqUKaCbGWcv-xT5rK9AMafU6su14/edit?usp=sharing)
+[Unit 16 Rubric - D3 - Data Journalism and D3](https://docs.google.com/document/d/10v1svLr0DM7jvJlBqUKaCbGWcv-xT5rK9AMafU6su14/edit?usp=sharing)
 
 - - -
 
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+© 2021 Ting Jennings. Confidential and Proprietary. All Rights Reserved.
 # D3-Challenge
