@@ -10,9 +10,8 @@ The editor wants to run a series of feature stories about the health risks facin
 
 The data set included with the assignment is based on 2014 ACS 1-year estimates from the [US Census Bureau](https://data.census.gov/cedsci/), but you are free to investigate a different data set. The current data set includes data on rates of income, obesity, poverty, etc. by state. MOE stands for "margin of error."
 
-### Before You Begin
 
-1. Create a new repository for this project called `D3-Challenge`. **Do not add this homework to an existing repository**.
+1. Create a new repository for this project called `D3-Challenge`. 
 
 2. Clone the new repository to your computer.
 
@@ -22,9 +21,7 @@ The data set included with the assignment is based on 2014 ACS 1-year estimates 
 
 5. Push the above changes to GitHub or GitLab.
 
-## Your Task
-
-### Core Assignment: D3 Dabbler (Required Assignment)
+ D3 Dabbler 
 
 ![4-scatter](Images/4-scatter.jpg)
 
@@ -40,7 +37,6 @@ Using the D3 techniques we taught you in class, create a scatter plot that repre
 
 - - -
 
-### Bonus: Impress the Boss (Optional Assignment)
 
 Why make a static graphic when D3 lets you interact with your data?
 
